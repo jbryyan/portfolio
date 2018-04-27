@@ -1,0 +1,32 @@
+.portfolio-container{
+  display: flex;
+  margin-top: 15vh;
+  flex-direction: column;
+  text-align: center;
+}
+
+.cv-list{
+  padding: 10px 0 0 0;
+  list-style-type: none;
+}
+
+.cv-list li{
+  display: inline;
+  padding: 10px;
+}
+
+.contact-list{
+  padding: 10px 0 0 0;
+  list-style-type: none;
+}
+
+.contact-list li{
+  padding: 3px 0 3px 0;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 20px;
+  width: 100%;
+}

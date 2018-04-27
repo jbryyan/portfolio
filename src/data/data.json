@@ -1,0 +1,13 @@
+[
+	{
+		"category": "fullstack",
+		"name": "Voting App",
+		"image": "../images/nightlife-home.png",
+		"image1": "../images/nightlife.png",
+		"link": "https://jbryyan.github.io/nightlife/",
+		"link1": "https://jbryyan.github.io/nightlife/",
+		"repo": "https://github.com/jbryyan/nightlife",
+		"techstack": ["React", "Material-ui", "Node.js", "Express", "MongoDB"],
+		"description": "A full stack project that allows users to browse existing polls as well as to sign up and login to vote or create new polls."
+  }
+]
