@@ -10,4 +10,4 @@
 		"techstack": ["React", "Material-ui", "Node.js", "Express", "MongoDB"],
 		"description": "A full stack project that allows users to browse existing polls as well as to sign up and login to vote or create new polls."
   }
-]
+] 
