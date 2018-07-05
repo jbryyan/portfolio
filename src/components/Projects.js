@@ -7,6 +7,7 @@ import '../styles/Projects.css';
 import data from '../data/data.json';
 import image1 from '../images/nightlife-1.png';
 import image2 from '../images/nightlife-2.png';
+import projects from '../assets/projects.json';
 
 class Projects extends Component {
   render() {
@@ -24,8 +25,8 @@ class Projects extends Component {
           <div className='list-item'>
             <div className='list-images '>
               <a href={data[0].link}>
-                <img className='list-image-home' src={image2} />
-                <img className='list-image-main' src={image1} />
+                <img className='list-image-home' src={projects[0].image} />
+                <img className='list-image-main' src={projects[0].image1} />
               </a>
             </div>
             <div className='list-description'>
