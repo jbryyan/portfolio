@@ -7,11 +7,11 @@
 		"link": "http://bryanjuarez.com/nightlife/",
 		"repo": "https://github.com/jbryyan/nightlife",
 		"techstack": ["React", "Material-ui", "Node.js", "Express", "MongoDB"],
-		"description": "A full stack project that allows users to browse existing polls as well as to sign up and login to vote or create new polls."
+		"description": "A full stack project that allows users to search for nightlife venues in a specific city and save up their plans."
   },
   {
 		"category": "fullstack",
-		"name": "Nightlife",
+		"name": "Vote App",
 		"image": "https://raw.githubusercontent.com/jbryyan/portfolio/master/src/assets/images/vote-1.png",
 		"image1": "https://raw.githubusercontent.com/jbryyan/portfolio/master/src/assets/images/vote-2.png",
 		"link": "http://bryanjuarez.com/vote-app/",
